@@ -56,7 +56,7 @@ async def op(_, m :Message):
                 [
                     [
                         InlineKeyboardButton("🎙️ Channel", url="https://t.me/Hg_Anime"),
-                        InlineKeyboardButton("✉️ Support", url="https://t.me/Demon_Slayer_Verse")
+                        InlineKeyboardButton("✉️ Support", url="https://t.me/+eV0g_EEf5PJhMGY1")
                     ],[
                         InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/HG_Auto_JoinBot?startgroup")
                     ]
@@ -98,7 +98,7 @@ async def chk(_, cb : CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/HG_Anime"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/Demon_Slayer_Verse")
+                        InlineKeyboardButton("💬 Support", url="https://t.me/+eV0g_EEf5PJhMGY1")
                     ],[
                         InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/HG_Auto_JoinBot?startgroup")
                     ]
